@@ -5,6 +5,7 @@ on:
     branches:
       - master
       - main
+      - dominika  
   pull_request:
     branches:
       - master
