@@ -25,6 +25,6 @@ Evolutionary Origin of Life and its Driving Forces\
 Statistical Evidence
 
 *Star Variant*\
-Neurosciences - Targeting of 5HT2A receptors as a potential new treatment for inflammatory aspects of Multiple Sclerosis\
+Neurosciences - Targeting of 5HT2A Receptors as a Potential New Treatment for Inflammatory Aspects of Multiple Sclerosis\
 Oncology - Comparison of Commercially Available Cell-Free DNA Isolation Kits
 
