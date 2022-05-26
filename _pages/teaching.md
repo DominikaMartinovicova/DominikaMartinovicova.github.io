@@ -2,25 +2,30 @@
 layout: page
 permalink: /courses/
 title: courses
-description: Materials for courses you taught. Replace this text with your description.
+description: Courses I attended throughout my studies.
 nav: true
 nav_order: 2
 ---
 
 **Year 1** 
+
 Genetics, Introduction to Biomedical Sciences, Biochemistry, Cell Biology - Histology, Microbiology - Toxicology, Evolutionary Developmental Biology, Human Development, Research in Biochemistry, Research in Biomedical Sciences, Immunology
 
 **Year 2**
+
 Medical Biochemistry, Human Anatomy and Physiology, Neurosciences, Medical Pharmacology, Biomedical Sciences and Society, Pathology, Statistics and Methodology, BigData in Biomedical Sciences, Oncology, Philosophy of Science and Ethics 
 
 
 **Honours Program**
+
 *Courses*
+
 Drugs That Alter Your Mind
 Evolutionary Origin of Life and its Driving Forces
 Statistical Evidence
 
 *Star Variant*
+
 Neurosciences - Targeting of 5HT2A receptors as a potential new treatment for inflammatory aspects of Multiple Sclerosis
 Oncology - Comparison of Commercially Available Cell-Free DNA Isolation Kits
 
