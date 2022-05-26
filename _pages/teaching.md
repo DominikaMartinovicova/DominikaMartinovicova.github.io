@@ -21,10 +21,10 @@ Medical Biochemistry, Human Anatomy and Physiology, Neurosciences, Medical Pharm
 
 *Courses*\
 Drugs That Alter Your Mind\
-Evolutionary Origin of Life and its Driving Forces\  
-Statistical Evidence\
+Evolutionary Origin of Life and its Driving Forces\
+Statistical Evidence
 
 *Star Variant*\
 Neurosciences - Targeting of 5HT2A receptors as a potential new treatment for inflammatory aspects of Multiple Sclerosis\
-Oncology - Comparison of Commercially Available Cell-Free DNA Isolation Kits\
+Oncology - Comparison of Commercially Available Cell-Free DNA Isolation Kits
 
