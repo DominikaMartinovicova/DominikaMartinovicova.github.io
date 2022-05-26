@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /pieces/
-title: Written pieces
+title: pieces
 description: Pieces of writing I worked on as a part of my courses or as an extension of my courses in form of a Star Variant.
 years: [2022]
 nav: true
