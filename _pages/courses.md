@@ -15,6 +15,9 @@ Genetics, Introduction to Biomedical Sciences, Biochemistry, Cell Biology - Hist
 
 Medical Biochemistry, Human Anatomy and Physiology, Neurosciences, Medical Pharmacology, Biomedical Sciences and Society, Pathology, Statistics and Methodology, BigData in Biomedical Sciences, Oncology, Philosophy of Science and Ethics 
 
+**Year 2**
+
+Experimental Cell Biology I., Experimental Cell Biology II., Metabolomics, From Protein to Cell, Molecular Microbiology
 
 
 **Honours Program**
