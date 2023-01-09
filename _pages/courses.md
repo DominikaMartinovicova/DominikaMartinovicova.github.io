@@ -26,6 +26,7 @@ Experimental Cell Biology I., Experimental Cell Biology II., Metabolomics, From 
 Drugs That Alter Your Mind\
 Evolutionary Origin of Life and its Driving Forces\
 Statistical Evidence
+Thinking and Emotion
 
 *Star Variant*\
 Neurosciences - Targeting of 5HT2A Receptors as a Potential New Treatment for Inflammatory Aspects of Multiple Sclerosis\
