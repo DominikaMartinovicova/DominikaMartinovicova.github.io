@@ -25,7 +25,7 @@ Experimental Cell Biology I., Experimental Cell Biology II., Metabolomics, From 
 *Courses*\
 Drugs That Alter Your Mind\
 Evolutionary Origin of Life and its Driving Forces\
-Statistical Evidence
+Statistical Evidence\
 Thinking and Emotion
 
 *Star Variant*\
