@@ -25,7 +25,7 @@ Experimental Cell Biology I., Experimental Cell Biology II., Metabolomics, From 
 
 **Year 1** 
 
-Fundamentals of Bioinformatics, Introduction to Systems Biology, Algorithms in Sequence Analysis, Basic Models of Biological Networks, Drug Targets Biochemstry and Signalling, Biosystems Data Analysis, Strucutral Bioinformatics, Scientific Machine Learning, Statistics in R, BioInformatics for Translational Medicine
+Fundamentals of Bioinformatics, Introduction to Systems Biology, Algorithms in Sequence Analysis, Basic Models of Biological Networks, Drug Targets Biochemstry and Signalling, Biosystems Data Analysis, Strucutral Bioinformatics, Scientific Machine Learning, Statistics in R, Bioinformatics for Translational Medicine
 
 **Honours Program**
 
