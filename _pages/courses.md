@@ -8,6 +8,7 @@ nav_order: 2
 ---
 
 **BACHELOR IN BIOMEDICAL SCIENCES**
+
 **Year 1** 
 
 Genetics, Introduction to Biomedical Sciences, Biochemistry, Cell Biology - Histology, Microbiology - Toxicology, Evolutionary Developmental Biology, Human Development, Research in Biochemistry, Research in Biomedical Sciences, Immunology
@@ -21,7 +22,9 @@ Medical Biochemistry, Human Anatomy and Physiology, Neurosciences, Medical Pharm
 Experimental Cell Biology I., Experimental Cell Biology II., Metabolomics, From Protein to Cell, Molecular Microbiology, Infectious Diseases
 
 **MASTER IN BIOINFORMATICS AND SYSTEMS BIOLOGY**
+
 **Year 1** 
+
 Fundamentals of Bioinformatics, Introduction to Systems Biology, Algorithms in Sequence Analysis, Basic Models of Biological Networks, Drug Targets Biochemstry and Signalling, Biosystems Data Analysis, Strucutral Bioinformatics, Scientific Machine Learning, Statistics in R, BioInformatics for Translational Medicine
 
 **Honours Program**
