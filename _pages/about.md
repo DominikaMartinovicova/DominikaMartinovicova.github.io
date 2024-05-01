@@ -14,13 +14,13 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-After attending the course of Cellular Biology I became interested in the cellular and molecular pathways occurring in the organism. I find it incredible how particles as small as RNA or proteins can affect the well-being of the whole organism. It is fascinating to learn about these fields of Biomedical Sciences as it provides us with explanations and insights into fundamental mechanisms affecting the whole organism. 
+I'm a dedicated student with a diverse background in education and scientific research. I hold a Bachelor's degree in Biomedical Sciences from Vrije University Amsterdam, graduating with a GPA of 8.3 and earning an Honours diploma. My studies have equipped me with a solid foundation in various Biomedical Sciences disciplines, including Genetics, Cell Biology, Immunology, and Human Physiology.
 
-The topic of molecular and cell biology arose again when I was taking a course in Immunology which I found very intriguing mostly because of its complexity and potential that this field entails. I find the molecular processes of various immunological mechanisms very interesting and would love to learn more as I am planning to pursue this path in my future studies and hopefully research as well. 
+Working as a Senior English teacher and a private tutor, specialising in teaching mathematics, chemistry, biology, physics, and English language. My expertise includes teaching English to diverse sectors, including public, corporate, and private, as well as preparing students for English language proficiency certificates.
 
-In order to gain more insight into Immunology and Biomedical field in general I am taking part in the Honours Program and as a part of it I wrote a Star Variant extension of my Neurosciences course that discussed the potential of psychedelics to inhibit chronic inflammation via 5HT2A receptors and thereby counteract the inflammation induced by cytokines in multiple sclerosis. Furthermore, I collected information and compared different methods and commercial kits for urinary cell-free DNA isolation for a research group of Prof. Steenbergen in Amsterdam Cancer Center.
+Alongside my teaching commitments, I've gained hands-on experience through internships, notably at the Cancer Center Amsterdam. During this internship, I worked on identifying miRNAs involved in hyperthermia-induced radio-sensitivity of cervical cancer cell lines, conducting tasks such as cell cultures, transfection, RNA isolation, PCR, and colony formation assays.
 
-Throughout my studies I had the opportunity to gain basic lab skills during my courses - Immunology, Research in Biochemstry, Genetics, Medical Pharmacology and Biochemistry. Additionally, I can provide good critical thinking and scientific communication skills which I gained via multiple written and oral assignments. 
+Currently pursuing a Masters in Bioinformatics and Systems Biology, I'm expanding my knowledge in cutting-edge fields like Scientific Machine Learning and Bioinformatics for Translational Medicine. Building up on my Bachelor’s courses of statistical analyses in SPSS and computationally-based research assignments in MatLab, I’ve broadened my skill set with R, Python as well as Wolfram Mathematica.
 
-Besides my studies, I am working as an English teacher and a personal private tutor. As both of these activities require preparation and punctuality it has taught me a great deal of organization, reliability, and time management. 
- 
+Last but not least, both my study and job experience has trained my communication skills in written as well as spoken format to various audiences. Fluent in multiple languages including Slovak, English, Czech, and with elementary proficiency in Dutch, I'm able to engage effectively with individuals from diverse backgrounds.
+
