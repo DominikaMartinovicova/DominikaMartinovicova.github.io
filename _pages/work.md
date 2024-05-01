@@ -12,7 +12,7 @@ I have worked as an intern for 4 months in Cancer Center Amsterdam on a research
 
 **Empire The Know-How Institute**\
 -> 2021 - present\
-I am working as an English teacher for the public, corporate and private sectors, and as preparation for English language proficiency certificates.
+I am working as a Senior English teacher for the public, corporate and private sectors, and as preparation for English language proficiency certificates.
 
 **Private personal tutor**\
 -> 2016 - present\
